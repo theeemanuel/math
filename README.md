@@ -1,1 +1,1 @@
-# Numerical-Methods-in-Mathematics
+# Numerical Methods in Mathematics
